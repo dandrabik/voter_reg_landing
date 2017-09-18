@@ -1,0 +1,31 @@
+.blue { color: #3E4FFF;}
+.red {  color: #FF4146;}
+.gray { color: #979797;}
+.white {color: white;}
+
+.bg-blue {  background-color: #3E4FFF;}
+.bg-red {   background-color: #FF4146;}
+.bg-gray {  background-color: #979797;}
+.bg-white { background-color: white;}
+
+
+.font-normal {font-weight: normal;}
+
+.button-xlarge {
+  font-size: 125%;
+}
+.font-larger { font-size: 1.15em; line-height: 1.5em; }
+
+/* overrides */
+a.pure-menu-link {
+  border: 2px solid white;
+  color: white;
+}
+.pure-menu-item a.pure-menu-link:hover {
+  border: 2px solid white;
+  background-color: white;
+  color: #FF4146;
+}
+.faq .l-box {padding-bottom: 0px;}
+
+

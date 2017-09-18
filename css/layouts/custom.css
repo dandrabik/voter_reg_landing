@@ -8,7 +8,8 @@
 .bg-gray {  background-color: #979797;}
 .bg-white { background-color: white;}
 
-
+.border-top-red { border-top: 20px solid #FF4146;}
+.border-top-blue { border-top: 20px solid #3E4FFF;}
 .font-normal {font-weight: normal;}
 
 .button-xlarge {

@@ -223,11 +223,7 @@ a.pure-button-primary {
     padding-top: 10px;
 }
 
-/*
- * -- TABLET (AND UP) MEDIA QUERIES --
- * On tablets and other medium-sized devices, we want to customize some
- * of the mobile styles.
- */
+/* iphone6 size */
 @media (min-width: 23em) {
     .splash {
         top: 90px;
@@ -236,6 +232,12 @@ a.pure-button-primary {
         font-size: 1.5em;
     }
 }
+
+/*
+ * -- TABLET (AND UP) MEDIA QUERIES --
+ * On tablets and other medium-sized devices, we want to customize some
+ * of the mobile styles.
+ */
 
 @media (min-width: 48em) {
 
@@ -266,7 +268,7 @@ a.pure-button-primary {
     }
 
     .splash-head {
-        font-size: 250%;
+        font-size: 190%;
     }
 
 
@@ -285,7 +287,7 @@ a.pure-button-primary {
 @media (min-width: 78em) {
     /* We increase the header font size even more */
     .splash-head {
-        font-size: 250%;
+        font-size: 230%;
     }
     .splash {
         top: 70px;

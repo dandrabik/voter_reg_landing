@@ -1,5 +1,5 @@
 const labels = ["Voted", "Did Not Vote"];
-const colors = ['rgba(255, 65, 70, 1)', 'rgba(151, 151, 151, 1)'];
+const colors = ['rgba(233, 81, 85, 1)', 'rgba(151, 151, 151, 1)'];
 const chartType = 'pie';
 const data2012 = [49, 51];
 const data2014 = [24, 76];

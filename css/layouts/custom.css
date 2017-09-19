@@ -1,15 +1,15 @@
-.blue { color: #3E4FFF;}
-.red {  color: #FF4146;}
+.blue { color: #4065f4;}
+.red {  color: #e95155;}
 .gray { color: #979797;}
 .white {color: white;}
 
-.bg-blue {  background-color: #3E4FFF;}
-.bg-red {   background-color: #FF4146;}
+.bg-blue {  background-color: #4065f4;}
+.bg-red {   background-color: #e95155;}
 .bg-gray {  background-color: #979797;}
 .bg-white { background-color: white;}
 
-.border-top-red { border-top: 20px solid #FF4146;}
-.border-top-blue { border-top: 20px solid #3E4FFF;}
+.border-top-red { border-top: 20px solid #e95155;}
+.border-top-blue { border-top: 20px solid #4065f4;}
 .font-normal {font-weight: normal;}
 
 .button-xlarge {
@@ -25,7 +25,7 @@ a.pure-menu-link {
 .pure-menu-item a.pure-menu-link:hover {
   border: 2px solid white;
   background-color: white;
-  color: #FF4146;
+  color: #e95155;
 }
 .faq .l-box {padding-bottom: 0px;}
 
